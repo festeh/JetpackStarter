@@ -6,12 +6,12 @@ plugins {
 
 android {
     namespace = "com.example.jetpackstarter"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.jetpackstarter"
         minSdk = 33
-        targetSdk = 34
+        targetSdk = 33
         versionCode = 1
         versionName = "1.0"
 
